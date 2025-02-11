@@ -73,7 +73,5 @@ Agar WebSocket ulanmasa:
 
 - **Avazbek** - Backend dasturchi
 
-## Litsenziya
 
-Bu loyiha **MIT** litsenziyasi asosida tarqatiladi.
 
